@@ -1,0 +1,5 @@
+FROM library/postgres:9.6
+
+ENV POSTGRES_USER frost
+ENV POSTGRES_PASSWORD frost
+ENV POSTGRES_DB frost
